@@ -1,0 +1,3 @@
+way of kings|brandon sanderson|true
+lord of the rings|jrr tolkien|false
+chronicles of narnia|cs lewis|true
